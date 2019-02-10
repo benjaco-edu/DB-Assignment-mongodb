@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.idea
+*.md
+testdata.manual.2009.06.14.csv
+training.1600000.processed.noemoticon.csv
+trainingandtestdata.zip
+data
